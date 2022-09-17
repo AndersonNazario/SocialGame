@@ -5,8 +5,7 @@
 }
 
 body{
-   /* background-color: #121214;*/
-    background-image: url(../imagens/bg.jpg);
+    background-color: #121214;
     background-image: url(../Imagens/bg.jpg);
     background-position: top center;
     background-size: 100% auto;
