@@ -4,7 +4,7 @@
 
 > Projeto de rede social
 
-## Tecnologias 
+## Tecnologias. 
 - HTL
 - CSS
 - Git e Githaub
